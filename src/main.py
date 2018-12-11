@@ -4,4 +4,5 @@ print("start program...")
 
 # まあなにもしないのだが。gitのテストだし。
 
-# test test
+# issues-#10
+print("issues!!!")
