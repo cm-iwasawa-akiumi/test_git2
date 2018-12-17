@@ -1,2 +1,7 @@
 import os
-print("test_hoge")
+def mymain():
+    print("test_hoge")
+   
+    print("testhogehoge")
+
+
